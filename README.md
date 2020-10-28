@@ -10,4 +10,4 @@ I am a Mobile and Full Stack developer with a heavy focus on the Front End. I ha
 ------
 martynas.alekna10@gmail.com
 
-over check out my portfolio https://www.martynasdev.me
+over check out my [portfolio](https://www.martynasdev.me)
