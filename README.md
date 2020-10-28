@@ -1,5 +1,7 @@
 ### Hey, I'm Martynas 👋
 
+I am React Native developer
+
 <!---
 🔭 I’m currently working on
 ------
