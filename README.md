@@ -1,6 +1,6 @@
 ### Hey, I'm Martynas 👋
 
-I am **React Native** developer
+I am React Native developer
 
 ⚡️ About me
 ------
