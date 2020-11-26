@@ -4,7 +4,7 @@ I am React Native developer
 
 ⚡️ About me
 ------
-I am a Mobile and Full Stack developer with a heavy focus on the Front End. I have over 2 years experience developing responsive Web Apps with React / Redux and Mobile Apps with React Native. Have a great understating of backend technologies and implementation of REST APIs in Node JS
+I am a self-taught Frontend and Mobile developer with over 2 years of experience. I have started my journey by building Web apps using React, Redux, NextJS, but few years ago I shifted my focus to Mobile development using React Native. Have a great understanding of backend technologies and implementation of REST APIs in NodeJS with SQL database. I enjoy learning and experimenting with new frameworks and libraries, any opportunity to improve my skills is my highest motivation.
 
 📫 How to reach me: 
 ------
